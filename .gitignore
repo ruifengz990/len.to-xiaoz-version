@@ -2,3 +2,4 @@
 public/
 bin/
 *.rdf
+.DS_STORE
