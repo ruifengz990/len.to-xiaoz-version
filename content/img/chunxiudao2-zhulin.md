@@ -1,5 +1,5 @@
 ---
-title: 绣春刀2竹林戏
+title: chunxiudao2-zhulin drama
 date: 2024-09-02T19:49:21-07:00
 draft: false
 location: 
