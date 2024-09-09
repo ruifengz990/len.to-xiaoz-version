@@ -7,6 +7,5 @@ img_url: https://cdn-image2.fengrin.me/2024-07-13-myself.jpg
 original_fn: ""
 tags:
 - myself
-- man
 
 ---
